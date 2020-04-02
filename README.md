@@ -1,0 +1,34 @@
+# aframe-japanese-font
+[![npm version](https://badge.fury.io/js/aframe-japanese-font.svg)](https://badge.fury.io/js/aframe-japanese-font)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Line up
+
+- [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
+
+
+## Install
+
+Install with [npm](https://www.npmjs.com/):
+
+    npm install aframe-japanese-font
+
+But, **these files are very large**.
+It is recommended that you do not import directly and treat them as static files.
+For example, store them in a public folder and get them on request.
+
+## Usage
+
+```html
+<a-scene>
+  <a-text
+    value="こんにちは世界！"
+    font="noto-sans-cjk-jp-msdf.json"
+    font-image="noto-sans-cjk-jp-msdf.png"
+    negate="false"
+    scale="2 2 1"
+    position="0 1 -4"
+  >
+  </a-text>
+</a-scene>
+```

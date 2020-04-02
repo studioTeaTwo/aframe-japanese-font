@@ -1,0 +1,29 @@
+{
+  "name": "aframe-japanese-font",
+  "version": "0.0.1",
+  "description": "japanese fonts for aframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "can-npm-publish",
+    "publish": "npm run test && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studioTeaTwo/aframe-japanese-font.git"
+  },
+  "keywords": [
+    "aframe",
+    "japanese",
+    "font",
+    "msdf"
+  ],
+  "author": "studioTeaTwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studioTeaTwo/aframe-japanese-font/issues"
+  },
+  "homepage": "https://github.com/studioTeaTwo/aframe-japanese-font#readme",
+  "devDependencies": {
+    "can-npm-publish": "^1.3.2"
+  }
+}
