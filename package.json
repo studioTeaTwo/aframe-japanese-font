@@ -1,6 +1,6 @@
 {
   "name": "aframe-japanese-font",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "japanese fonts for aframe",
   "files":  [
     "fonts/**/*.json",
