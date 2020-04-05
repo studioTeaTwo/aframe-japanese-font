@@ -4,8 +4,8 @@
 
 ## Line up
 
-- [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
-
+### [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
+- 常用漢字 + 人名用漢字
 
 ## Install
 
@@ -15,7 +15,7 @@ Install with [npm](https://www.npmjs.com/):
 
 But, **these files are very large**.
 It is recommended that you do not import directly and treat them as static files.
-For example, store them in a public folder and get them on request.
+For example, deploy them to public folders and retrieve them on demand.
 
 ## Usage
 

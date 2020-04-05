@@ -2,10 +2,15 @@
   "name": "aframe-japanese-font",
   "version": "0.0.2",
   "description": "japanese fonts for aframe",
-  "main": "index.js",
+  "files":  [
+    "fonts/**/*.json",
+    "fonts/**/*.png"
+  ],
   "scripts": {
-    "test": "can-npm-publish",
-    "publish": "npm run test && npm publish"
+    "prepare": "npm run test",
+    "publish": "npm publish",
+    "stats": "tar -tf $(npm pack)",
+    "test": "can-npm-publish --verbose"
   },
   "repository": {
     "type": "git",
