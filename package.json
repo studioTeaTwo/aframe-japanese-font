@@ -2,14 +2,15 @@
   "name": "aframe-japanese-font",
   "version": "0.0.3",
   "description": "japanese fonts for aframe",
-  "files":  [
+  "files": [
     "fonts/**/*.json",
     "fonts/**/*.png"
   ],
   "scripts": {
-    "publish": "npm run test && npm publish",
+    "build": "node ./task/create.js",
     "stats": "tar -tf $(npm pack)",
-    "test": "can-npm-publish --verbose"
+    "test": "can-npm-publish --verbose",
+    "prepare": "npm run test"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   },
   "homepage": "https://github.com/studioTeaTwo/aframe-japanese-font#readme",
   "devDependencies": {
-    "can-npm-publish": "^1.3.2"
+    "can-npm-publish": "^1.3.2",
+    "msdf-generator": "^0.0.3"
   }
 }

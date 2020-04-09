@@ -7,13 +7,16 @@
 ### [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
 - 常用漢字 + 人名用漢字
 
+### [ふい字P](http://hp.vector.co.jp/authors/VA039499/#hui)
+- 常用漢字 + 人名用漢字
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
     npm install aframe-japanese-font
 
-But, **these files are very large**.
+CAUTION: **these files are very large**.
 It is recommended that you do not import directly and treat them as static files.
 For example, deploy them to public folders and retrieve them on demand.
 
