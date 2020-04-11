@@ -6,7 +6,8 @@ const CHARSET_JYOUYOU_KANJI = require('msdf-generator').CHARSET_JYOUYOU_KANJI;
 const CHARSET_KATAKANA = require('msdf-generator').CHARSET_KATAKANA;
 
 const NotoSansCJKjp = 'noto-sans-cjk-jp';
-const huiP = 'huiP';
+const mplus = 'mplus';
+const hui = 'hui';
 
 const fonts = [
   {
@@ -17,11 +18,18 @@ const fonts = [
     output: `./fonts/${NotoSansCJKjp}`
   },
   {
-    fontID: huiP,
+    fontID: mplus,
     charset: `${CHARSET_ALPHABET}${CHARSET_HIRAGANA}${CHARSET_KATAKANA}${CHARSET_JYOUYOU_KANJI}${CHARSET_JINMEI_KANJI}`,
     textureSize: 2048 + 512,
-    ttfFile: `./fonts/${huiP}/ttf/HuiFontP109.ttf`,
-    output: `./fonts/${huiP}`
+    ttfFile: `./fonts/${mplus}/ttf/mplus-1c-regular.ttf`,
+    output: `./fonts/${mplus}`
+  },
+  {
+    fontID: hui,
+    charset: `${CHARSET_ALPHABET}${CHARSET_HIRAGANA}${CHARSET_KATAKANA}${CHARSET_JYOUYOU_KANJI}${CHARSET_JINMEI_KANJI}`,
+    textureSize: 2048 + 512,
+    ttfFile: `./fonts/${hui}/ttf/HuiFontP29.ttf`,
+    output: `./fonts/${hui}`
   },
 ];
 

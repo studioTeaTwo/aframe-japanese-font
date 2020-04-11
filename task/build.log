@@ -1,0 +1,173 @@
+
+> aframe-japanese-font@0.1.0 build /aframe-japanese-font
+> node ./task/create.js
+
+[2K[1GWarning: no bitmap for character '®' (174), adding to font as empty
+[2K[1GWarning: no bitmap for character '©' (169), adding to font as empty
+[2K[1GWarning: no bitmap for character '¢' (162), adding to font as empty
+[2K[1GWarning: no bitmap for character '¥' (165), adding to font as empty
+[2K[1GWarning: no bitmap for character '£' (163), adding to font as empty
+[2K[1GWarning: no bitmap for character '€' (8364), adding to font as empty
+[2K[1GWarning: no bitmap for character '曖' (26326), adding to font as empty
+[2K[1GWarning: no bitmap for character '彙' (24409), adding to font as empty
+[2K[1GWarning: no bitmap for character '鬱' (39729), adding to font as empty
+[2K[1GWarning: no bitmap for character '楷' (26999), adding to font as empty
+[2K[1GWarning: no bitmap for character '諧' (35559), adding to font as empty
+[2K[1GWarning: no bitmap for character '毀' (27584), adding to font as empty
+[2K[1GWarning: no bitmap for character '嗅' (21957), adding to font as empty
+[2K[1GWarning: no bitmap for character '惧' (24807), adding to font as empty
+[2K[1GWarning: no bitmap for character '憬' (25004), adding to font as empty
+[2K[1GWarning: no bitmap for character '錮' (37678), adding to font as empty
+[2K[1GWarning: no bitmap for character '傲' (20658), adding to font as empty
+[2K[1GWarning: no bitmap for character '刹' (21049), adding to font as empty
+[2K[1GWarning: no bitmap for character '恣' (24675), adding to font as empty
+[2K[1GWarning: no bitmap for character '摯' (25711), adding to font as empty
+[2K[1GWarning: no bitmap for character '𠮟' (55362), adding to font as empty
+[2K[1GWarning: no bitmap for character '羞' (32670), adding to font as empty
+[2K[1GWarning: no bitmap for character '箋' (31627), adding to font as empty
+[2K[1GWarning: no bitmap for character '踪' (36394), adding to font as empty
+[2K[1GWarning: no bitmap for character '緻' (32251), adding to font as empty
+[2K[1GWarning: no bitmap for character '塡' (22625), adding to font as empty
+[2K[1GWarning: no bitmap for character '嘲' (22066), adding to font as empty
+[2K[1GWarning: no bitmap for character '塡' (22625), adding to font as empty
+[2K[1GWarning: no bitmap for character '貪' (36010), adding to font as empty
+[2K[1GWarning: no bitmap for character '丼' (20028), adding to font as empty
+[2K[1GWarning: no bitmap for character '剝' (21085), adding to font as empty
+[2K[1GWarning: no bitmap for character '頰' (38960), adding to font as empty
+[2K[1GWarning: no bitmap for character '訃' (35331), adding to font as empty
+[2K[1GWarning: no bitmap for character '璧' (29863), adding to font as empty
+[2K[1GWarning: no bitmap for character '哺' (21754), adding to font as empty
+[2K[1GWarning: no bitmap for character '頰' (38960), adding to font as empty
+[2K[1GWarning: no bitmap for character '喩' (21929), adding to font as empty
+[2K[1GWarning: no bitmap for character '俠' (20448), adding to font as empty
+[2K[1GWarning: no bitmap for character '瘍' (30221), adding to font as empty
+[2K[1GWarning: no bitmap for character '拉' (25289), adding to font as empty
+[2K[1GWarning: no bitmap for character '辣' (36771), adding to font as empty
+[2K[1GWarning: no bitmap for character '慄' (24900), adding to font as empty
+[2K[1GWarning: no bitmap for character '籠' (31840), adding to font as empty
+[2K[1GWarning: no bitmap for character '摑' (25681), adding to font as empty
+[2K[1GWarning: no bitmap for character '侑' (20369), adding to font as empty
+[2K[1GWarning: no bitmap for character '俐' (20432), adding to font as empty
+[2K[1GWarning: no bitmap for character '俠' (20448), adding to font as empty
+[2K[1GWarning: no bitmap for character '俱' (20465), adding to font as empty
+[2K[1GWarning: no bitmap for character '凛' (20955), adding to font as empty
+[2K[1GWarning: no bitmap for character '凜' (20956), adding to font as empty
+[2K[1GWarning: no bitmap for character '勁' (21185), adding to font as empty
+[2K[1GWarning: no bitmap for character '凰' (20976), adding to font as empty
+[2K[1GWarning: no bitmap for character '吞' (21534), adding to font as empty
+[2K[1GWarning: no bitmap for character '堯' (22575), adding to font as empty
+[2K[1GWarning: no bitmap for character '奎' (22862), adding to font as empty
+[2K[1GWarning: no bitmap for character '已' (24050), adding to font as empty
+[2K[1GWarning: no bitmap for character '巖' (24022), adding to font as empty
+[2K[1GWarning: no bitmap for character '崚' (23834), adding to font as empty
+[2K[1GWarning: no bitmap for character '彗' (24407), adding to font as empty
+[2K[1GWarning: no bitmap for character '徠' (24480), adding to font as empty
+[2K[1GWarning: no bitmap for character '惺' (24826), adding to font as empty
+[2K[1GWarning: no bitmap for character '焰' (28976), adding to font as empty
+[2K[1GWarning: no bitmap for character '摑' (25681), adding to font as empty
+[2K[1GWarning: no bitmap for character '猪' (64022), adding to font as empty
+[2K[1GWarning: no bitmap for character '昊' (26122), adding to font as empty
+[2K[1GWarning: no bitmap for character '晄' (26180), adding to font as empty
+[2K[1GWarning: no bitmap for character '晏' (26191), adding to font as empty
+[2K[1GWarning: no bitmap for character '昴' (26164), adding to font as empty
+[2K[1GWarning: no bitmap for character '晟' (26207), adding to font as empty
+[2K[1GWarning: no bitmap for character '暉' (26249), adding to font as empty
+[2K[1GWarning: no bitmap for character '晨' (26216), adding to font as empty
+[2K[1GWarning: no bitmap for character '禱' (31153), adding to font as empty
+[2K[1GWarning: no bitmap for character '栞' (26654), adding to font as empty
+[2K[1GWarning: no bitmap for character '檜' (27292), adding to font as empty
+[2K[1GWarning: no bitmap for character '梛' (26779), adding to font as empty
+[2K[1GWarning: no bitmap for character '椰' (26928), adding to font as empty
+[2K[1GWarning: no bitmap for character '槇' (27079), adding to font as empty
+[2K[1GWarning: no bitmap for character '橙' (27225), adding to font as empty
+[2K[1GWarning: no bitmap for character '櫂' (27330), adding to font as empty
+[2K[1GWarning: no bitmap for character '繫' (32363), adding to font as empty
+[2K[1GWarning: no bitmap for character '繡' (32353), adding to font as empty
+[2K[1GWarning: no bitmap for character '毬' (27628), adding to font as empty
+[2K[1GWarning: no bitmap for character '洵' (27957), adding to font as empty
+[2K[1GWarning: no bitmap for character '洸' (27960), adding to font as empty
+[2K[1GWarning: no bitmap for character '渚' (64070), adding to font as empty
+[2K[1GWarning: no bitmap for character '漱' (28465), adding to font as empty
+[2K[1GWarning: no bitmap for character '滉' (28361), adding to font as empty
+[2K[1GWarning: no bitmap for character '澪' (28586), adding to font as empty
+[2K[1GWarning: no bitmap for character '煌' (29004), adding to font as empty
+[2K[1GWarning: no bitmap for character '焰' (28976), adding to font as empty
+[2K[1GWarning: no bitmap for character '燎' (29134), adding to font as empty
+[2K[1GWarning: no bitmap for character '萊' (33802), adding to font as empty
+[2K[1GWarning: no bitmap for character '熙' (29081), adding to font as empty
+[2K[1GWarning: no bitmap for character '燿' (29183), adding to font as empty
+[2K[1GWarning: no bitmap for character '猪' (64022), adding to font as empty
+[2K[1GWarning: no bitmap for character '珈' (29640), adding to font as empty
+[2K[1GWarning: no bitmap for character '蔣' (34083), adding to font as empty
+[2K[1GWarning: no bitmap for character '琢' (64074), adding to font as empty
+[2K[1GWarning: no bitmap for character '珀' (29632), adding to font as empty
+[2K[1GWarning: no bitmap for character '琥' (29733), adding to font as empty
+[2K[1GWarning: no bitmap for character '瑶' (29814), adding to font as empty
+[2K[1GWarning: no bitmap for character '蠟' (34847), adding to font as empty
+[2K[1GWarning: no bitmap for character '皓' (30355), adding to font as empty
+[2K[1GWarning: no bitmap for character '眸' (30520), adding to font as empty
+[2K[1GWarning: no bitmap for character '禱' (31153), adding to font as empty
+[2K[1GWarning: no bitmap for character '祐' (64079), adding to font as empty
+[2K[1GWarning: no bitmap for character '禎' (64083), adding to font as empty
+[2K[1GWarning: no bitmap for character '祿' (31103), adding to font as empty
+[2K[1GWarning: no bitmap for character '稟' (31263), adding to font as empty
+[2K[1GWarning: no bitmap for character '穹' (31353), adding to font as empty
+[2K[1GWarning: no bitmap for character '穰' (31344), adding to font as empty
+[2K[1GWarning: no bitmap for character '笙' (31513), adding to font as empty
+[2K[1GWarning: no bitmap for character '醬' (37292), adding to font as empty
+[2K[1GWarning: no bitmap for character '簞' (31774), adding to font as empty
+[2K[1GWarning: no bitmap for character '絆' (32070), adding to font as empty
+[2K[1GWarning: no bitmap for character '綺' (32186), adding to font as empty
+[2K[1GWarning: no bitmap for character '繡' (32353), adding to font as empty
+[2K[1GWarning: no bitmap for character '繫' (32363), adding to font as empty
+[2K[1GWarning: no bitmap for character '綸' (32184), adding to font as empty
+[2K[1GWarning: no bitmap for character '翔' (32724), adding to font as empty
+[2K[1GWarning: no bitmap for character '顚' (39002), adding to font as empty
+[2K[1GWarning: no bitmap for character '羚' (32666), adding to font as empty
+[2K[1GWarning: no bitmap for character '脩' (33065), adding to font as empty
+[2K[1GWarning: no bitmap for character '鷗' (40407), adding to font as empty
+[2K[1GWarning: no bitmap for character '苺' (33530), adding to font as empty
+[2K[1GWarning: no bitmap for character '莉' (33673), adding to font as empty
+[2K[1GWarning: no bitmap for character '茉' (33545), adding to font as empty
+[2K[1GWarning: no bitmap for character '萠' (33824), adding to font as empty
+[2K[1GWarning: no bitmap for character '菫' (33771), adding to font as empty
+[2K[1GWarning: no bitmap for character '萊' (33802), adding to font as empty
+
+Generation complete!
+
+ok [ { filename: 'hui',
+    texture:
+     <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 0a 00 00 00 0a 00 08 06 00 00 00 7d 54 7b d8 00 8d 89 df 49 44 41 54 78 01 ec c1 79 74 dc 07 62 ... > } ]
+[2K[1GWarning: no bitmap for character '蔣' (34083), adding to font as empty
+[2K[1GWarning: no bitmap for character '蕾' (34174), adding to font as empty
+[2K[1GWarning: no bitmap for character '蠟' (34847), adding to font as empty
+[2K[1GWarning: no bitmap for character '蟬' (34796), adding to font as empty
+[2K[1GWarning: no bitmap for character '詢' (35426), adding to font as empty
+[2K[1GWarning: no bitmap for character '諄' (35524), adding to font as empty
+[2K[1GWarning: no bitmap for character '赳' (36211), adding to font as empty
+[2K[1GWarning: no bitmap for character '遙' (36953), adding to font as empty
+[2K[1GWarning: no bitmap for character '逞' (36894), adding to font as empty
+[2K[1GWarning: no bitmap for character '迪' (36842), adding to font as empty
+[2K[1GWarning: no bitmap for character '釉' (37321), adding to font as empty
+[2K[1GWarning: no bitmap for character '醬' (37292), adding to font as empty
+[2K[1GWarning: no bitmap for character '颯' (39087), adding to font as empty
+[2K[1GWarning: no bitmap for character '顚' (39002), adding to font as empty
+[2K[1GWarning: no bitmap for character '頌' (38924), adding to font as empty
+[2K[1GWarning: no bitmap for character '驍' (39501), adding to font as empty
+[2K[1GWarning: no bitmap for character '鷗' (40407), adding to font as empty
+[2K[1GWarning: no bitmap for character '麒' (40594), adding to font as empty
+[2K[1GWarning: no bitmap for character '黎' (40654), adding to font as empty
+[2K[1GWarning: no bitmap for character '渾' (28222), adding to font as empty
+[2K[1GWarning: no bitmap for character '巫' (24043), adding to font as empty
+
+Generation complete!
+
+ok [ { filename: 'noto-sans-cjk-jp',
+    texture:
+     <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 0a 00 00 00 0a 00 08 06 00 00 00 7d 54 7b d8 00 69 97 d5 49 44 41 54 78 01 ec c1 7b 70 dc 07 62 ... > } ]
+
+Generation complete!
+
+ok [ { filename: 'mplus',
+    texture:
+     <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 0a 00 00 00 0a 00 08 06 00 00 00 7d 54 7b d8 00 6d bc d7 49 44 41 54 78 01 cc c1 0f 70 d5 77 62 ... > } ]
