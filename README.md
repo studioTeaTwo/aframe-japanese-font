@@ -2,6 +2,12 @@
 [![npm version](https://badge.fury.io/js/aframe-japanese-font.svg)](https://badge.fury.io/js/aframe-japanese-font)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Description
+
+This is the font sets to enable Japanese for A-Frame, which are MSDF format.
+
+See also blog: [「A-Frameの日本語フォントを用意する」](https://crieit.net/posts/A-Frame-5e93285a259c3)
+
 ## Line up
 
 ### [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
