@@ -40,3 +40,13 @@ it needs `[font name]-msdf.json` and `[font name]-msdf.png`.
   </a-text>
 </a-scene>
 ```
+
+## Publish
+
+Update the source and increment the version in package.json.
+And then:
+
+    npm run prepare
+    npm run release -- --release-as [version]
+    git push --follow-tags origin main
+    npm publish
