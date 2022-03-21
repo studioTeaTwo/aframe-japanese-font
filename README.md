@@ -43,7 +43,7 @@ it needs `[font name]-msdf.json` and `[font name]-msdf.png`.
 
 ## Publish
 
-- Update the source.
+- Update the source, do `npm run build` and commit it.
 - Increment the `version` in package.json.(not to commit) 
 - And then:
 
