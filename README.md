@@ -43,10 +43,12 @@ it needs `[font name]-msdf.json` and `[font name]-msdf.png`.
 
 ## Publish
 
-Update the source and increment the version in package.json.
-And then:
+- Update the source.
+- Increment the `version` in package.json.(not to commit) 
+- And then:
 
-    npm run prepare
-    npm run release -- --release-as [version]
-    git push --follow-tags origin main
-    npm publish
+```sh
+  npm run release -- --release-as [version]
+  git push --follow-tags origin main
+  npm publish
+```

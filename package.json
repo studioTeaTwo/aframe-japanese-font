@@ -10,7 +10,7 @@
     "build": "node ./task/create.js",
     "stats": "tar -tf $(npm pack)",
     "test": "can-npm-publish --verbose",
-    "prepare": "npm run test",
+    "prerelease": "npm run build && npm run test",
     "release": "standard-version"
   },
   "repository": {
